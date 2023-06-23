@@ -41,8 +41,8 @@
 .logo {
   border-radius: 7px;
   background: linear-gradient(26.57deg, #b778ff, #9a4eff);
-  width: 24px;
-  height: 24px;
+  width: 25px;
+  height: 27px;
   overflow: hidden;
   flex-shrink: 0;
 }

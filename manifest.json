@@ -33,13 +33,9 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "images/chatgpt.svg",
-        "images/repeat.svg",
-        "images/icon16.png",
-        "images/icon32.png",
-        "images/icon128.png",
         "images/copy.png",
-        "images/trash.svg",
+        "images/cross.png",
+        "images/icon32.png",
         "content.css",
         "content_page_inject.css",
         "options.html",
